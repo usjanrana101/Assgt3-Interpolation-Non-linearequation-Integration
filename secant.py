@@ -3,7 +3,7 @@
 """
 Created on Sat Dec 12 00:00:20 2019
 
-@author:ritambasu61
+@author:jagannath rana
 """
 from scipy import optimize
 from numpy import sin,cos,exp
