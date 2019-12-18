@@ -3,7 +3,7 @@
 """
 Created on Sat Dec 14 00:02:30 2019
 
-@author:ritambasu61
+@author:jagannath rana
 """
 
 from scipy import integrate
